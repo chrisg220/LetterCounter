@@ -1,12 +1,11 @@
 == Letter Counter
-*********************************************************
 
 In this programming assignment you will practice using arrays and classes.  You are to implement a class called LetterInventory that can be used to keep track of an inventory of letters of the alphabet.  The constructor for the class takes a String and computes how many of each letter are in the String.  This is the information the object keeps track of (how many a’s, how many b’s, etc).  It ignores the case of the letters and ignores anything that is not an alphabetic character (e.g., it ignores punctuation characters, digits and anything else that is not a letter).
 Your class should have the following public methods.
 
 
 == Getting Started
-
+	
 1. At the command prompt, create a new Rails application:
        <tt>rails new myapp</tt> (where <tt>myapp</tt> is the application name)
 
@@ -18,7 +17,7 @@ Your class should have the following public methods.
 
 4. Follow the guidelines to start developing your application. You can find
 the following resources handy:
-
+	test
 * The Getting Started Guide: http://guides.rubyonrails.org/getting_started.html
 * Ruby on Rails Tutorial Book: http://www.railstutorial.org/
 
