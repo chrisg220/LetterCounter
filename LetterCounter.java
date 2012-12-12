@@ -5,7 +5,7 @@
 
 public class LetterCounter {
 	private int[] inventoryData;		// list of integers
-	private int size;					// current sum of letter counts in the LetterInventory
+	private int size;			// current sum of letter counts in the LetterInventory
     	
 	public static final int DEFAULT_CAPACITY = 26;
 	
