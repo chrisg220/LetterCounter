@@ -4,7 +4,7 @@ In this program uses arrays that can be used to keep track of an inventory of le
 Your class should have the following public methods.
 
 
-== Getting Started
+== Public Methods
 	
 constructs a LetterInventory object with an inventory of each letter passed in.
        LetterCounter(String data)
